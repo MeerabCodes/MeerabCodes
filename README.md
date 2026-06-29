@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Meerab Asif 👋
 
-<!--
-**MeerabCodes/MeerabCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student building real things with Python and AI.
 
-Here are some ideas to get you started:
+## Currently
+- 📚 CS50P — Python fundamentals
+- 🛠️ Building small projects every day
+- 📈 Learning in public
+- ✅ Completed C++ fundamentals (Semester 1)
+   ## Skills
+C++ · Python (learning) · Git · GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack (building towards)
+Python · JavaScript · React · AI APIs
+
+## Goal
+Ship something useful every week.
+I did C++ in my degree, now I'm learning Python and building real projects.
+
+
+
