@@ -12,6 +12,7 @@ C++ · Python (learning) · Git · GitHub
 
 ## Stack (building towards)
 Python · JavaScript · React · AI APIs
+Web development  · HTML  · CSS 
 
 ## Goal
 Ship something useful every week.
